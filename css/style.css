@@ -427,8 +427,9 @@ button:focus {
       vertical-align: middle;
       align-self: center; }
     .home_banner_area .banner_inner .banner_content {
-      color: #fff; }
-	.banner_content{background-color:rgba(0,0,0,0.4);}
+      color: #fff;
+	background-color: rgba(0,0,0,0.4); }
+	
       .home_banner_area .banner_inner .banner_content h2 {
         margin-top: 0px;
 	margin-left: 100px;
