@@ -138,11 +138,11 @@ button:focus {
 /* Start Gradient Area css
 ============================================================================================ */
 .gradient-bg, #search_input_box, .header-top .header-top-right a:hover, .single_feature:nth-child(3), .single_department:hover, .single_course .course_content .course_meta .price, .testimonial_area .owl-thumb-item.active .overlay-grad, .testimonial_area .owl-thumb-item .overlay-grad:hover, .testimonial_area .owl-thumb-item .overlay-grad.active, .registration_area, .categories_post:hover .categories_details, .blog_right_sidebar .widget_title, .blog_right_sidebar .search_widget .input-group .form-control, .blog_right_sidebar .newsletter_widget .bbtns, .blog_right_sidebar .tag_cloud_widget ul li a:hover, .blog-pagination .page-item.active .page-link, .blog-pagination .page-link:hover, .comments-area .btn-reply:hover, .blog_btn:hover, .footer-area .footer-bottom .footer-social a:hover {
-  background: -webkit-linear-gradient(90deg, #00aee0 0%, #00fedc 100%);
-  background: -moz-linear-gradient(90deg, #00aee0 0%, #00fedc 100%);
-  background: -ms-linear-gradient(90deg, #00aee0 0%, #00fedc 100%);
-  background: -o-linear-gradient(90deg, #00aee0 0%, #00fedc 100%);
-  background: linear-gradient(90deg, #00aee0 0%, #00fedc 100%); }
+  background: -webkit-linear-gradient(90deg, #e00417 0%, #fc7985 100%);
+  background: -moz-linear-gradient(90deg, #e00417 0%, #fc7985 100%);
+  background: -ms-linear-gradient(90deg, #e00417 0%, #fc7985 100%);
+  background: -o-linear-gradient(90deg, #e00417 0%, #fc7985 100%);
+  background: linear-gradient(90deg, #e00417 0%, #fc7985 100%); }
 
 .gradient-bg2, .single_feature:nth-child(1), .single_course .course_content .course_meta .price.df_color1 {
   background: -webkit-linear-gradient(90deg, #e94086 0%, #e5925a 100%);
